@@ -1,0 +1,1 @@
+This repo includes Assignments that I have been taught in the CyberSecurity (InformationSecurity) Course - Hanoi University of Science and Technology.
