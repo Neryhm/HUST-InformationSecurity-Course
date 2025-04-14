@@ -1,0 +1,246 @@
+Initial State:
+64 32 d1 ad 
+9d 35 2b 79 
+f3 a3 28 9a 
+93 b2 da 08 
+
+AddRoundKey:
+b4 26 28 05 
+54 db 0e f0 
+12 9c 24 52 
+25 d1 d6 ae 
+
+InvShiftRows:
+b4 26 28 05 
+f0 54 db 0e 
+24 52 12 9c 
+d1 d6 ae 25 
+
+InvSubBytes:
+c6 23 ee 36 
+17 fd 9f d7 
+a6 48 39 1c 
+51 4a be c2 
+
+AddRoundKey:
+6a 54 88 c5 
+0e 07 43 f6 
+8e 99 10 5d 
+06 16 be ac 
+
+InvMixColumns:
+d2 8d 33 7d 
+f8 02 5c 40 
+f5 e3 61 7a 
+33 b0 6b 85 
+
+InvShiftRows:
+d2 8d 33 7d 
+40 f8 02 5c 
+61 7a f5 e3 
+b0 6b 85 33 
+
+InvSubBytes:
+7f b4 66 13 
+72 e1 6a a7 
+d8 bd 77 4d 
+fc 05 67 66 
+
+AddRoundKey:
+95 66 15 32 
+c7 6c d0 75 
+e9 96 82 2d 
+83 88 4e 49 
+
+InvMixColumns:
+39 2b af e0 
+73 8a 7b 15 
+35 f3 2a b9 
+47 46 f7 6f 
+
+InvShiftRows:
+39 2b af e0 
+15 73 8a 7b 
+2a b9 35 f3 
+46 f7 6f 47 
+
+InvSubBytes:
+5b 0b 1b a0 
+2f 8f cf 03 
+95 db d9 7e 
+98 26 06 16 
+
+AddRoundKey:
+15 5f ec ae 
+70 d0 06 f0 
+11 7d 96 cc 
+d6 80 da 59 
+
+InvMixColumns:
+0a 1d 31 48 
+d9 05 81 d3 
+51 db 1c a7 
+20 b1 0a f7 
+
+InvShiftRows:
+0a 1d 31 48 
+d3 d9 05 81 
+1c a7 51 db 
+b1 0a f7 20 
+
+InvSubBytes:
+a3 de 2e d4 
+a9 e5 36 91 
+c4 89 70 9f 
+56 a3 26 54 
+
+AddRoundKey:
+ce 56 8d ae 
+b8 ee 08 6c 
+1f 70 f6 de 
+9c a3 b5 a9 
+
+InvMixColumns:
+57 bb c7 80 
+61 f8 81 40 
+77 4b 2b 81 
+b4 63 ab f4 
+
+InvShiftRows:
+57 bb c7 80 
+40 61 f8 81 
+2b 81 77 4b 
+63 ab f4 b4 
+
+InvSubBytes:
+da fe 31 3a 
+72 d8 e1 91 
+0b 91 02 cc 
+00 0e ba c6 
+
+AddRoundKey:
+0e 2f f7 c2 
+0e 5b 7c 16 
+c1 63 ba 70 
+11 f7 af 7a 
+
+InvMixColumns:
+15 4d d7 fb 
+fd 0c 88 05 
+61 da bd ee 
+59 7b 7c ce 
+
+InvShiftRows:
+15 4d d7 fb 
+05 fd 0c 88 
+bd ee 61 da 
+7b 7c ce 59 
+
+InvSubBytes:
+2f 65 0d 63 
+36 21 81 97 
+cd 99 d8 7a 
+03 01 ec 15 
+
+AddRoundKey:
+c0 21 a8 22 
+9e 73 da e8 
+7b e8 fd 41 
+d8 0a 41 15 
+
+InvMixColumns:
+f2 cb e7 38 
+18 e6 2a 7a 
+a8 79 35 7c 
+bf e4 36 a0 
+
+InvShiftRows:
+f2 cb e7 38 
+7a 18 e6 2a 
+35 7c a8 79 
+e4 36 a0 bf 
+
+InvSubBytes:
+04 59 b0 76 
+bd 34 f5 95 
+d9 01 6f af 
+ae 24 47 f4 
+
+AddRoundKey:
+39 d9 f7 0b 
+fa 22 0b ab 
+c7 22 11 eb 
+c3 5e cf cf 
+
+InvMixColumns:
+d4 26 88 35 
+c1 1a 2b 68 
+bf c8 2a c6 
+6d 73 ab 1f 
+
+InvShiftRows:
+d4 26 88 35 
+68 c1 1a 2b 
+2a c6 bf c8 
+73 ab 1f 6d 
+
+InvSubBytes:
+19 23 97 d9 
+f7 dd 43 0b 
+95 c7 f4 b1 
+8f 0e cb b3 
+
+AddRoundKey:
+eb e1 02 2b 
+8d 4b fa 48 
+cc f2 74 cb 
+fc 57 3d cc 
+
+InvMixColumns:
+6b 95 64 29 
+00 25 82 1a 
+e0 98 6b 01 
+dd 27 3c 56 
+
+InvShiftRows:
+6b 95 64 29 
+1a 00 25 82 
+6b 01 e0 98 
+27 3c 56 dd 
+
+InvSubBytes:
+05 ad 8c 4c 
+43 52 c2 11 
+05 09 a0 e2 
+3d 6d b9 c9 
+
+AddRoundKey:
+a5 57 72 5b 
+cb 06 ee a0 
+26 aa 99 db 
+17 01 cf cc 
+
+InvMixColumns:
+d2 47 10 4d 
+c6 32 44 30 
+ef 55 74 0e 
+a4 da ea 9f 
+
+InvShiftRows:
+d2 47 10 4d 
+30 c6 32 44 
+74 0e ef 55 
+da ea 9f a4 
+
+InvSubBytes:
+7f 16 7c 65 
+08 c7 a1 86 
+ca d7 61 ed 
+7a bb 6e 1d 
+
+AddRoundKey:
+54 68 69 73 
+20 69 73 20 
+61 20 74 65 
+73 74 21 21 
+

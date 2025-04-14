@@ -1,0 +1,795 @@
+Subkey:
+6d c4 87 a3 1a b0 
+
+Subkey:
+6e 32 98 2b 28 b5 
+
+Subkey:
+6d c4 87 a3 1a b0 
+
+Subkey:
+cb 3d 8b 0a 12 b5 
+
+Subkey:
+6e 32 98 2b 28 b5 
+
+Subkey:
+6d c4 87 a3 1a b0 
+
+Subkey:
+cb 3d 8b 0a 12 b5 
+
+Subkey:
+6e 32 98 2b 28 b5 
+
+Subkey:
+cb 3d 8b 0a 12 b5 
+
+Subkey:
+6e 32 98 2b 28 b5 
+
+Subkey:
+6d c4 87 a3 1a b0 
+
+Subkey:
+cb 3d 8b 0a 12 b5 
+
+Subkey:
+6e 32 98 2b 28 b5 
+
+Subkey:
+6d c4 87 a3 1a b0 
+
+Subkey:
+cb 3d 8b 0a 12 b5 
+
+Subkey:
+6d c4 87 a3 1a b0 
+
+Input Block:
+fc 0b 8d 04 15 7d 0f 28 
+
+Initial Permutation:
+21 31 7d 76 05 a1 e7 42 
+
+Expansion:
+00 bd 03 f0 ea 04 
+
+S-Box:
+1a b1 93 3a 
+
+Permutation:
+ef 2a 25 06 
+
+Left Half:
+05 a1 e7 42 
+
+Right Half:
+ce 1b 58 70 
+
+Expansion:
+65 c0 f6 af 03 a1 
+
+S-Box:
+19 c2 ca aa 
+
+Permutation:
+19 6f 45 03 
+
+Left Half:
+ce 1b 58 70 
+
+Right Half:
+1c ce a2 41 
+
+Expansion:
+8f 96 5d 50 42 02 
+
+S-Box:
+f2 86 f4 36 
+
+Permutation:
+63 c6 97 aa 
+
+Left Half:
+1c ce a2 41 
+
+Right Half:
+ad dd cf da 
+
+Expansion:
+55 be fb e5 fe f5 
+
+S-Box:
+08 e9 61 bd 
+
+Permutation:
+8a 0d 2d e5 
+
+Left Half:
+ad dd cf da 
+
+Right Half:
+96 c3 8f a4 
+
+Expansion:
+4a d6 07 c5 fd 09 
+
+S-Box:
+49 c4 80 2c 
+
+Permutation:
+09 09 d5 20 
+
+Left Half:
+96 c3 8f a4 
+
+Right Half:
+a4 d4 1a fa 
+
+Expansion:
+50 96 a8 0f 57 f5 
+
+S-Box:
+62 7e d0 93 
+
+Permutation:
+67 47 9a 45 
+
+Left Half:
+a4 d4 1a fa 
+
+Right Half:
+f1 84 15 e1 
+
+Expansion:
+fa 3c 08 0a bf 03 
+
+S-Box:
+6e 67 b2 25 
+
+Permutation:
+e1 69 9e b4 
+
+Left Half:
+f1 84 15 e1 
+
+Right Half:
+45 bd 84 4e 
+
+Expansion:
+20 bd fb c0 82 5c 
+
+S-Box:
+93 97 a4 dd 
+
+Permutation:
+cf d0 59 ab 
+
+Left Half:
+45 bd 84 4e 
+
+Right Half:
+3e 54 4c 4a 
+
+Expansion:
+1f c2 a8 25 82 54 
+
+S-Box:
+5b 67 6c a8 
+
+Permutation:
+d8 4d d4 8f 
+
+Left Half:
+3e 54 4c 4a 
+
+Right Half:
+9d f0 50 c1 
+
+Expansion:
+cf bf a0 2a 16 03 
+
+S-Box:
+d3 70 e9 35 
+
+Permutation:
+57 85 ec a6 
+
+Left Half:
+9d f0 50 c1 
+
+Right Half:
+69 d1 a0 ec 
+
+Expansion:
+35 3e a3 d0 17 58 
+
+S-Box:
+55 71 fe 11 
+
+Permutation:
+b7 25 c8 9e 
+
+Left Half:
+69 d1 a0 ec 
+
+Right Half:
+2a d5 98 5f 
+
+Expansion:
+95 56 ab cf 02 fe 
+
+S-Box:
+09 69 22 b7 
+
+Permutation:
+82 2b 4c e5 
+
+Left Half:
+2a d5 98 5f 
+
+Right Half:
+eb fa ec 09 
+
+Expansion:
+f5 7f f5 75 80 53 
+
+S-Box:
+89 01 34 a5 
+
+Permutation:
+a0 88 4c a9 
+
+Left Half:
+eb fa ec 09 
+
+Right Half:
+8a 5d d4 f6 
+
+Expansion:
+45 42 fb ea 97 ad 
+
+S-Box:
+ed 04 a3 a6 
+
+Permutation:
+01 aa f6 b1 
+
+Left Half:
+8a 5d d4 f6 
+
+Right Half:
+ea 50 1a b8 
+
+Expansion:
+75 42 a0 0f 55 f1 
+
+S-Box:
+a5 6d 26 9a 
+
+Permutation:
+8a a3 52 dd 
+
+Left Half:
+ea 50 1a b8 
+
+Right Half:
+00 fe 86 2b 
+
+Expansion:
+80 17 fd 40 c1 56 
+
+S-Box:
+11 36 8e 65 
+
+Permutation:
+15 70 5c 2e 
+
+Left Half:
+00 fe 86 2b 
+
+Right Half:
+ff 20 46 96 
+
+Final Permutation:
+42 6f 6d 62 61 72 64 69 
+
+Input Block:
+0e b7 7e 4d e0 87 dd 70 
+
+Initial Permutation:
+dc c6 6f 6a 72 96 4d 27 
+
+Expansion:
+ba 54 ac 25 a9 0e 
+
+S-Box:
+74 00 19 20 
+
+Permutation:
+30 00 a6 12 
+
+Left Half:
+72 96 4d 27 
+
+Right Half:
+ec c6 c9 78 
+
+Expansion:
+75 96 0d 65 2b f1 
+
+S-Box:
+82 cb d8 9a 
+
+Permutation:
+fb c7 01 41 
+
+Left Half:
+ec c6 c9 78 
+
+Right Half:
+89 51 4c 66 
+
+Expansion:
+45 2a a2 a5 83 0d 
+
+S-Box:
+e5 78 12 56 
+
+Permutation:
+26 b3 c2 74 
+
+Left Half:
+89 51 4c 66 
+
+Right Half:
+ca 75 0b 0c 
+
+Expansion:
+65 43 aa 85 68 59 
+
+S-Box:
+65 10 10 dc 
+
+Permutation:
+2e 10 c2 31 
+
+Left Half:
+ca 75 0b 0c 
+
+Right Half:
+a7 41 8e 57 
+
+Expansion:
+d0 ea 03 c5 c2 af 
+
+S-Box:
+a7 cd 8d 1a 
+
+Permutation:
+db 83 73 58 
+
+Left Half:
+a7 41 8e 57 
+
+Right Half:
+11 f6 78 54 
+
+Expansion:
+0a 3f ac 3f 02 a8 
+
+S-Box:
+25 80 ef 11 
+
+Permutation:
+13 24 6b 98 
+
+Left Half:
+11 f6 78 54 
+
+Right Half:
+b4 65 e5 cf 
+
+Expansion:
+da 83 0b f0 be 5f 
+
+S-Box:
+c8 59 32 aa 
+
+Permutation:
+ac ab 84 c1 
+
+Left Half:
+b4 65 e5 cf 
+
+Right Half:
+bd 5d fc 95 
+
+Expansion:
+df aa fb ff 94 ab 
+
+S-Box:
+6a 37 04 60 
+
+Permutation:
+c4 58 96 0c 
+
+Left Half:
+bd 5d fc 95 
+
+Right Half:
+70 3d 73 c3 
+
+Expansion:
+ba 01 fa ba 7e 06 
+
+S-Box:
+63 e0 f4 4b 
+
+Permutation:
+69 17 cb 8c 
+
+Left Half:
+70 3d 73 c3 
+
+Right Half:
+d4 4a 37 19 
+
+Expansion:
+ea 82 54 1a e8 f3 
+
+S-Box:
+f2 2e 88 b5 
+
+Permutation:
+53 c0 9e 67 
+
+Left Half:
+d4 4a 37 19 
+
+Right Half:
+23 fd ed a4 
+
+Expansion:
+10 7f fb f5 bd 08 
+
+S-Box:
+6e 34 f9 21 
+
+Permutation:
+75 0c be 94 
+
+Left Half:
+23 fd ed a4 
+
+Right Half:
+a1 46 89 8d 
+
+Expansion:
+d0 2a 0d 45 3c 5b 
+
+S-Box:
+8e 88 1f d0 
+
+Permutation:
+72 b8 21 59 
+
+Left Half:
+a1 46 89 8d 
+
+Right Half:
+51 45 cc fd 
+
+Expansion:
+aa 2a 0b e5 97 fa 
+
+S-Box:
+f7 c7 d4 99 
+
+Permutation:
+eb c5 db 1b 
+
+Left Half:
+51 45 cc fd 
+
+Right Half:
+4a 83 52 96 
+
+Expansion:
+25 54 06 aa 54 ac 
+
+S-Box:
+24 6e a0 6c 
+
+Permutation:
+09 51 16 f4 
+
+Left Half:
+4a 83 52 96 
+
+Right Half:
+58 14 da 09 
+
+Expansion:
+af 00 a9 6f 40 52 
+
+S-Box:
+43 ae 47 dc 
+
+Permutation:
+4a 74 f1 6d 
+
+Left Half:
+58 14 da 09 
+
+Right Half:
+00 f7 a3 fb 
+
+Expansion:
+80 17 af d0 7f f6 
+
+S-Box:
+11 8d f1 95 
+
+Permutation:
+a3 04 79 e3 
+
+Left Half:
+00 f7 a3 fb 
+
+Right Half:
+fb 10 a3 ea 
+
+Final Permutation:
+6e 6f 20 43 72 6f 63 6f 
+
+Input Block:
+98 c5 aa f0 15 7e 6c ef 
+
+Initial Permutation:
+ea 39 f2 92 8f ec e5 a4 
+
+Expansion:
+45 ff 59 70 bd 09 
+
+S-Box:
+e4 21 99 2d 
+
+Permutation:
+b9 80 ae 34 
+
+Left Half:
+8f ec e5 a4 
+
+Right Half:
+53 b9 5c a6 
+
+Expansion:
+2a 7d f2 af 95 0c 
+
+S-Box:
+f9 9b c4 2d 
+
+Permutation:
+8d cc cf 6a 
+
+Left Half:
+53 b9 5c a6 
+
+Right Half:
+02 20 2a ce 
+
+Expansion:
+00 41 00 15 56 5c 
+
+S-Box:
+1d b4 a0 dc 
+
+Permutation:
+0f 18 51 b7 
+
+Left Half:
+02 20 2a ce 
+
+Right Half:
+5c a1 0d 11 
+
+Expansion:
+af 95 02 85 a8 a2 
+
+S-Box:
+43 b6 1a 1c 
+
+Permutation:
+7e 60 d1 24 
+
+Left Half:
+5c a1 0d 11 
+
+Right Half:
+7c 40 fb ea 
+
+Expansion:
+3f 82 01 7f 7f 54 
+
+S-Box:
+c2 c6 0d 18 
+
+Permutation:
+5a c1 b1 08 
+
+Left Half:
+7c 40 fb ea 
+
+Right Half:
+06 60 bc 19 
+
+Expansion:
+80 c3 01 5f 80 f2 
+
+S-Box:
+10 cb 82 b6 
+
+Permutation:
+83 63 05 63 
+
+Left Half:
+06 60 bc 19 
+
+Right Half:
+ff 23 fe 89 
+
+Expansion:
+ff e9 07 ff d4 53 
+
+S-Box:
+fa be 3d d5 
+
+Permutation:
+76 d8 bb ef 
+
+Left Half:
+ff 23 fe 89 
+
+Right Half:
+70 b8 07 f6 
+
+Expansion:
+3a 15 f0 00 ff ac 
+
+S-Box:
+5b 90 a0 ad 
+
+Permutation:
+4d 08 cd a3 
+
+Left Half:
+70 b8 07 f6 
+
+Right Half:
+b2 2b 33 2a 
+
+Expansion:
+5a 41 56 9a 69 55 
+
+S-Box:
+c5 f1 60 1d 
+
+Permutation:
+8e 85 c9 b4 
+
+Left Half:
+b2 2b 33 2a 
+
+Right Half:
+fe 3d ce 42 
+
+Expansion:
+7f c1 fb e5 c2 05 
+
+S-Box:
+c9 97 dd 3d 
+
+Permutation:
+bf cc fd 28 
+
+Left Half:
+fe 3d ce 42 
+
+Right Half:
+0d e7 ce 02 
+
+Expansion:
+05 bf 0f e5 c0 04 
+
+S-Box:
+ea cd 1e 4a 
+
+Permutation:
+f8 bb 93 48 
+
+Left Half:
+0d e7 ce 02 
+
+Right Half:
+06 86 5d 0a 
+
+Expansion:
+00 d4 0c 2f a8 54 
+
+S-Box:
+10 61 4a d8 
+
+Permutation:
+9a 35 00 07 
+
+Left Half:
+06 86 5d 0a 
+
+Right Half:
+97 d2 ce 05 
+
+Expansion:
+ca fe a5 65 c0 0b 
+
+S-Box:
+4c 81 dd 40 
+
+Permutation:
+b1 1c a1 18 
+
+Left Half:
+97 d2 ce 05 
+
+Right Half:
+b7 9a fc 12 
+
+Expansion:
+5a fc f5 7f 80 a5 
+
+S-Box:
+e4 90 e2 63 
+
+Permutation:
+05 b6 8f 90 
+
+Left Half:
+b7 9a fc 12 
+
+Right Half:
+92 64 41 95 
+
+Expansion:
+ca 43 08 20 3c ab 
+
+S-Box:
+75 57 df 10 
+
+Permutation:
+b7 65 f2 1a 
+
+Left Half:
+92 64 41 95 
+
+Right Half:
+00 ff 0e 08 
+
+Expansion:
+00 17 fe 85 c0 50 
+
+S-Box:
+11 3b ce ad 
+
+Permutation:
+9d 64 4c 6f 
+
+Left Half:
+00 ff 0e 08 
+
+Right Half:
+0f 00 0d fa 
+
+Final Permutation:
+64 69 6c 6f 21 21 21 21 
+
